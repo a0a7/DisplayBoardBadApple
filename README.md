@@ -10,5 +10,4 @@ All 30 lines on the display board matrix are fed data by a Display Link, which r
 
 These 30 items are continually renamed by the functions contained within the Datapack, which consists (mostly) of around 2200 .mcfunction files that run in sequence to cycle through all of the frames.
 
-These .mcfunction files were created from https://github.com/Chion82/ASCII_bad_apple by the C++ program I wrote.
-
+These .mcfunction files were created by the C++ program, with this (https://github.com/Chion82/ASCII_bad_apple) ASCII-art version of Bad Apple as input.
