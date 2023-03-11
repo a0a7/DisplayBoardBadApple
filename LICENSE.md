@@ -1,4 +1,4 @@
-This Repo and Everything Contained Within is Licensed under the MIT License
+This Repo and Everything Contained Within is Licensed under the MIT License 
 
 Copyright (c) 2022 levtus
 
