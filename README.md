@@ -1,6 +1,6 @@
 # Touhou - Bad Apple Music Video played on Minecraft Create Mod Display Boards
 
-This is a repository containing two things. The first is a C++ program that converts a text file containing ASCII art of every frame from the Bad Apple shadow art music video. The second is a Minecraft world containing this datapack and the blocky infrastructure it needs to run. 
+This is a repository containing two things--the first is a C++ program that converts a text file containing ASCII art of every frame from the Bad Apple shadow art music video into a Minecraft Datapack. The second is a Minecraft world containing this datapack and the blocky infrastructure this datapack needs to run the Shadow Art music video on Create mod Display Boards.
 
 Video Demo: 
 https://youtu.be/_mY5Ibyj-W4
