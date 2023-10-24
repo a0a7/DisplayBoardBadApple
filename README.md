@@ -1,6 +1,6 @@
 # Bad Apple!! Music Video on Create Mod Display Boards
 
-This is a repository containing both a C++ program that converts a text file containing ASCII art of every frame from the Bad Apple shadow art music video into a Minecraft Datapack. The second is a Minecraft world containing this datapack and the blocky infrastructure this datapack needs to run the music video on Display Boards.
+This is a repository containing a C++ program that converts a text file containing ASCII art of every frame from the Bad Apple shadow art music video into a Minecraft Datapack. It also includes a world containing this datapack and the infrastructure this datapack needs to run the video on Display Boards.
 
 ## Video Demo: 
 
